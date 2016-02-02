@@ -215,5 +215,6 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-# Excluding _site folder
+# Excluding _site folder and jekyll-metadata
 _site
+.jekyll-metadata
