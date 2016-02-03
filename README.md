@@ -1,2 +1,2 @@
-# project-starterkit
-My Project Starter kit
+# Jekyll-Project-Starter-Kit
+My Jekyll Project Starter Kit
